@@ -1,0 +1,8 @@
+bin/
+HeaderImages/
+images/
+obj/
+Properties/
+*.config
+*.designer.cs
+
